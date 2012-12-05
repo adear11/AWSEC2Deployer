@@ -20,7 +20,7 @@ Other than that, you just need to fill in the values that pertain to your projec
     $loadBalancer = "The name of your ELB";
     $docRoot      = "The absolute path to the root of your project";
     $deploymentUser = "The user mentioned above that can authenticate with an SSH key";
-<pre>
+</pre>
 
 ## Misc. ##
 
